@@ -2,4 +2,4 @@
 
 Udemy course link: https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/
 
-Netlify Link: not hosted.
+Netlify Link: https://infallible-bartik-b4901f.netlify.app
